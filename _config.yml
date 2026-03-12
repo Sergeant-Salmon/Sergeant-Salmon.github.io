@@ -1,5 +1,5 @@
 # Basic site settings (edit these first)
-title: "Student Portfolio" # Site title shown in the browser and header
+title: "Lewis Goody Portfolio" # Site title shown in the browser and header
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 description: "A simple portfolio starter for games students." # Short site summary
@@ -20,10 +20,10 @@ favicon_version: 1 # Increment to force browsers to refresh the favicon
 
 # Site Author
 author:
-  name: "Student Name" # Name of the student
+  name: "Lewis Goody" # Name of the student
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "Add short bio here" # Bio of the student
-  location: "Add location here" # Location of the student
+  location: "Belfast" # Location of the student
   email: # Email of the student
 
   # Author links
@@ -50,7 +50,7 @@ author:
 # Site Footer
 footer: # Site footer
   links: # Footer links
-    - label: "Twitter" # Twitter link
+    - label: "LinkedIn" # Twitter link
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
       target: "_blank"
