@@ -52,7 +52,7 @@ footer: # Site footer
   links: # Footer links
     - label: "LinkedIn" # Twitter link
       icon: "fab fa-fw fa-linkedin"
-      url: "https://twitter.com/"
+      url: "https://www.linkedin.com/in/lewis-goody-38b387334/"
       target: "_blank"
     - label: "Facebook" # Facebook link
       icon: "fab fa-fw fa-facebook-square"
