@@ -9,7 +9,7 @@ skills:
     badges: ["C#", "Game Dev"]
     text: "Built multiple prototypes and a completed tower defense game."
     years: 1
-    - name: "Unreal Engine"
+  - name: "Unreal Engine"
     icon: "fab fa-fw fa-unrealengine"
     badges: ["C#", "Game Dev"]
     text: "Built multiple prototypes and a completed tower defense game."
