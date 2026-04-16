@@ -4,8 +4,7 @@ layout: default
 permalink: /pages/about-me/
 ---
 
-This page uses the `default` layout. It is a minimal wrapper around your content.
-You can use it for simple pages where you want full control over the markup.
+{% include figure image_path="/assets/images/placeholder-2.png" alt="Game Jam screenshot" caption="This is a caption" %}
 
 {% include download
   title="Download my Project Proposal"
