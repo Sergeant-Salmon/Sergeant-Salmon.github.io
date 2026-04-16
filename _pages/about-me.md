@@ -7,9 +7,9 @@ permalink: /pages/about-me/
 {% include figure image_path="/assets/images/3D 2.png" alt="Game Jam screenshot" %}
 
 {% include download
-  title="Download my Project Proposal"
+  title="Download my CV"
   url="/assets/downloads/Project-proposal.pdf"
-  button_label="Download Project Proposal"
+  button_label="Download CV"
   download="Project-proposal.pdf"
 %}
 
