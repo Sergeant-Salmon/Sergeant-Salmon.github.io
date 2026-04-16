@@ -2,7 +2,7 @@
 main:
   - title: "Home"
     url: /
-    - title: "About Me"
+  - title: "About Me"
     url: /pages/about-me/
   - title: "Projects"
     url: /projects/
