@@ -4,7 +4,7 @@ layout: default
 permalink: /pages/about-me/
 ---
 
-{% include figure image_path="/assets/images/Screenshot 2025-12-08 031616.png" alt="Game Jam screenshot" caption="This is a caption" %}
+{% include figure image_path="/assets/images/Screenshot 2025-12-08 031616.png" alt="Game Jam screenshot" %}
 
 {% include download
   title="Download my Project Proposal"
