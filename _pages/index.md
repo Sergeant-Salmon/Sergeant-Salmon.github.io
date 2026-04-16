@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Portfolio"
 layout: splash
 permalink: /
 header:
@@ -12,7 +12,7 @@ header:
       target: "_blank"
 
 
-excerpt: "You can add text here."
+excerpt: "This is the main page, you can find an brief preview of my projects here."
 intro: 
   - excerpt: 'You can also add text like this....'
 feature_row:
