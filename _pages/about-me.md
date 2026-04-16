@@ -7,8 +7,13 @@ skills:
   - name: "Unity"
     icon: "fab fa-fw fa-unity"
     badges: ["C#", "Game Dev"]
-    text: "Built multiple prototypes and a published jam game."
-    years: 2
+    text: "Built multiple prototypes and a completed tower defense game."
+    years: 1
+    - name: "Unreal Engine"
+    icon: "fab fa-fw fa-unrealengine"
+    badges: ["C#", "Game Dev"]
+    text: "Built multiple prototypes and a completed tower defense game."
+    years: 1
   - name: "Game Design"
     icon: "fas fa-fw fa-gamepad"
     badges: ["Game Mechanics", "Levels", "UI"]
