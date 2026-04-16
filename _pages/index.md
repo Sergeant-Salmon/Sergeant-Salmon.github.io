@@ -18,19 +18,19 @@ intro:
 feature_row:
   - image_path: /assets/images/Screenshot 2025-12-08 031616.png
     alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "3D Level Demo"
+    excerpt: "Level design and asset creation done within unity."
   - image_path: /assets/images/Screenshot 2026-04-16 103954.png
     alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "Comedy and Tragedy"
+    excerpt: "A social deduction card game created in my first year of University."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/defireflies.png
-    alt: "placeholder image 4"
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    alt: "De-Forest Station"
+    title: "De-Forest Station"
+    excerpt: "Tower defence game made as a first year university group project."
 ---
 
 {% include feature_row id="intro" type="center" %}
