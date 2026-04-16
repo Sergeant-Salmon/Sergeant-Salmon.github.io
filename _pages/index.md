@@ -16,18 +16,18 @@ excerpt: "This is the main page, you can find an brief preview of my projects he
 intro: 
   - excerpt: 'You can also add text like this....'
 feature_row:
-  - image_path: /assets/images/Screenshot 2025-12-08 031616.png
+  - image_path: /assets/images/3D 1.png
     alt: "placeholder image 1"
     title: "3D Level Demo"
     excerpt: "Level design and asset creation done within unity."
-  - image_path: /assets/images/Screenshot 2026-04-16 103954.png
+  - image_path: /assets/images/BG 1.png
     alt: "placeholder image 2"
     title: "Comedy and Tragedy"
     excerpt: "A social deduction card game created in my first year of University."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/defireflies.png
+  - image_path: /assets/images/DFS 1.png
     alt: "De-Forest Station"
     title: "De-Forest Station"
     excerpt: "Tower defence game made as a first year university group project."
