@@ -12,7 +12,7 @@ header:
       target: "_blank"
 
 
-excerpt: "This is the main page, you can find an brief preview of my overview here."
+excerpt: "This is the main page, you can find an brief overview of my projects here."
 intro: 
   - excerpt: 'My recent projects'
 feature_row:
