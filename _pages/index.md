@@ -12,9 +12,9 @@ header:
       target: "_blank"
 
 
-excerpt: "This is the main page, you can find an brief preview of my projects here."
+excerpt: "This is the main page, you can find an brief preview of my overview here."
 intro: 
-  - excerpt: 'You can also add text like this....'
+  - excerpt: 'My recent projects'
 feature_row:
   - image_path: /assets/images/3D 1.png
     alt: "placeholder image 1"
@@ -24,7 +24,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "Comedy and Tragedy"
     excerpt: "A social deduction card game created in my first year of University."
-    url: "#test-link"
+    url: "https://sergeant-salmon.github.io/projects/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/DFS 1.png
