@@ -16,7 +16,7 @@ main:
       - title: "Comedy and Tragedy"
         url: /projects/comedy-and-tragedy/
       - title: "Rough Mix"
-        url: /projects/projects-rough-mix/
+        url: /projects/rough-mix/
  # - title: "Pages"
  #   url: /pages/
 #    children:
@@ -43,7 +43,7 @@ projects:
   - title: "Comedy and Tragedy"
     url: /projects/comedy-and-tragedy/
   - title: "Rough Mix"
-    url: /projects/projects-rough-mix/
+    url: /projects/rough-mix/
     
     
 
