@@ -48,12 +48,5 @@ skills:
 
 </div>
 
-{% include download
-  title="Download my CV"
-  url="/assets/downloads/Project-proposal.pdf"
-  button_label="Download CV"
-  download="Project-proposal.pdf"
-%}
-
 {% include skills skills=page.skills %}
 
