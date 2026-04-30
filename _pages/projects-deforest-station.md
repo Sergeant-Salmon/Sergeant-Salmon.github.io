@@ -45,7 +45,7 @@ sidebar:
     - projects
     
 ---
-Talk about DFS
+Deforest Station is a real-time strategy, tower defence game set in an apocalyptic world where plants have started to fight back against humans. This was my final project for my first year of Uni and was completed as a group of four. The game was created in Unity and coded in C#. I was one of the lead programmers on this project and also created the fully original soundtrack in Reaper. Additionally, I designed the layout of the levels for this project and created and implemented the sound effects.
 {% include video id="uuhx1_aKJyI" provider="youtube" %}
 
 {% include gallery id="gallery_dfs" layout="third" thumb_height="180px" %}
