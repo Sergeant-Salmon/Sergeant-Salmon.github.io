@@ -11,6 +11,8 @@ main:
         url: /projects/deforest-station/
       - title: "2D"
         url: /projects/2D/
+      - title: "3D"
+        url: /projects/3D/
  # - title: "Pages"
  #   url: /pages/
 #    children:
@@ -32,6 +34,8 @@ projects:
     url: /projects/deforest-station/
   - title: "2D"
     url: /projects/2D/
+  - title: "3D"
+        url: /projects/3D/
     
 
 # Sidebar menu for the Pages page
