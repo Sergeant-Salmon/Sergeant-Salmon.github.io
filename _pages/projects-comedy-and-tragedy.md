@@ -2,38 +2,6 @@
 title: "Comedy and Tragedy"
 layout: single
 permalink: /projects/comedy-and-tragedy/
-gallery_dfs:
-  # Recommended: width "240px" to "320px" keeps a neat grid
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 1"
-    title: "Core loop"
-    caption: "Core loop"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 2"
-    title: "Challenge"
-    caption: "Challenge"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 3"
-    title: "Power-ups"
-    caption: "Power-ups"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 4"
-    title: "Boss arena"
-    caption: "Boss arena"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 5"
-    title: "UI feedback"
-    caption: "UI feedback"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 6"
-    title: "Final tweak"
-    caption: "Final tweak"
 header:
   overlay_color: "#000"
   overlay_filter: "0.35"
@@ -51,4 +19,9 @@ I decided to create a social deduction card game which makes you act out predete
 {% include video id="LtAwfcAyWyw" provider="youtube" %}
 I created a comprehensive game design document and conducted a structured playtest for feedback.
 
-{% include gallery id="gallery_dfs" layout="third" thumb_height="180px" %}
+{% include figure image_path="/assets/images/COLOUR A4 mask cards.png" alt="Mask cards" caption="This is a caption" %}
+This image shows many of the personality card that were included in my game. These dictated the way players had to act and added replayability to my game. 
+
+{% include figure image_path="/assets/images/COLOUR A4 other cards.png" alt="Role cards" caption="This is a caption" %}
+This image shows the role card that were in the game. These cards gave the players a win condition and special abilities only available to them.
+All assets were created in Krita.
