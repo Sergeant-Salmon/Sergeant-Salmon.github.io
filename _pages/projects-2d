@@ -1,7 +1,7 @@
 ---
 title: "2D"
 layout: single
-permalink: /projects/projects-2d/
+permalink: /projects/2d/
 gallery_dfs:
   # Recommended: width "240px" to "320px" keeps a neat grid
   - url: /assets/images/placeholder.png
