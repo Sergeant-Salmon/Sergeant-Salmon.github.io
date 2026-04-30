@@ -4,21 +4,21 @@ layout: single
 permalink: /projects/
 gallery_projects:
   # Recommended: width "240px" to "320px" keeps a neat grid
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 1"
-    title: "Core loop"
-    caption: "Core loop"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 2"
-    title: "Challenge"
-    caption: "Challenge"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 3"
-    title: "Power-ups"
-    caption: "Power-ups"
+  - url: /assets/images/DFS 1.png
+    image_path: /assets/images/DFS 1.png
+    alt: "DFS"
+    title: "Deforest staton"
+    caption: "First year group project. A tower defence game set in a plant based apocalypse."
+  - url: /assets/images/3D game 320.png
+    image_path: /assets/images/3D game 320.png
+    alt: "3D game"
+    title: "3D Game"
+    caption: "A 3D level created within unity to progress my level design skills. First year Uni project."
+  - url: /assets/images/2D game 320.png
+    image_path: /assets/images/2D game 320.png
+    alt: "2D game"
+    title: "2D Game"
+    caption: "A 2D game i created a first semester Uni project. Its a classic top down rpg"
   - url: /assets/images/placeholder.png
     image_path: /assets/images/placeholder.png
     alt: "Gameplay 4"
@@ -49,7 +49,7 @@ This is my project showcase, you can use the sidebar to choose which project you
 
 By clicking the images below you can get a short overview of each of my projects.
 
-{% include gallery id="gallery_projects" layout="third" thumb_height="180px" %}
+{% include gallery id="gallery_projects" layout="third" thumb_height="320px" %}
 
 
 
