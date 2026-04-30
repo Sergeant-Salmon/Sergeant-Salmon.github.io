@@ -1,7 +1,7 @@
 ---
-title: "Projects Deforest Station"
+title: "Projects 2D"
 layout: single
-permalink: //
+permalink: /projects/2D/
 gallery_dfs:
   # Recommended: width "240px" to "320px" keeps a neat grid
   - url: /assets/images/placeholder.png
