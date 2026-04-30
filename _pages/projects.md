@@ -4,8 +4,8 @@ layout: single
 permalink: /projects/
 gallery_projects:
   # Recommended: width "240px" to "320px" keeps a neat grid
-  - url: /assets/images/DFS 1.png
-    image_path: /assets/images/DFS 1.png
+  - url: /assets/images/xylem 320.png
+    image_path: /assets/images/xylem 320.png
     alt: "DFS"
     title: "Deforest staton"
     caption: "First year group project. A tower defence game set in a plant based apocalypse."
@@ -19,21 +19,17 @@ gallery_projects:
     alt: "2D game"
     title: "2D Game"
     caption: "A 2D game i created a first semester Uni project. Its a classic top down rpg"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 4"
-    title: "Boss arena"
-    caption: "Boss arena"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 5"
-    title: "UI feedback"
-    caption: "UI feedback"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 6"
-    title: "Final tweak"
-    caption: "Final tweak"
+  - url: /assets/images/board game 320.png
+    image_path: /assets/images/board game 320.png
+    alt: "Comedy and Tragedy"
+    title: "Comedy and Tragedy"
+    caption: "Comedy and tragedy is a social deduction card game with theatrical theming. First year Uni project."
+  - url: /assets/images/RM 320.png
+    image_path: /assets/images/RM 320.png
+    alt: "Rough Mix"
+    title: "Rough Mix"
+    caption: "Rough mix is my first fully completed game made in unreal engine during my time at college. It is a rhythm game with a sketchbook artstyle and a fully original soundtrack."
+
 header:
   overlay_color: "#000"
   overlay_filter: "0.35"
