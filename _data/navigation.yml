@@ -9,8 +9,8 @@ main:
     children:
       - title: "Projects Deforest Station"
         url: /projects/deforest-station/
-      - title: "Capstone"
-        url: /projects/capstone/
+      - title: "Projects 2D"
+        url: /projects/2d/
  # - title: "Pages"
  #   url: /pages/
 #    children:
