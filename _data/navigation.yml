@@ -13,6 +13,8 @@ main:
         url: /projects/2D/
       - title: "3D"
         url: /projects/3D/
+      - title: "Comedy and Tragedy"
+        url: /projects/CaT/
  # - title: "Pages"
  #   url: /pages/
 #    children:
@@ -35,7 +37,10 @@ projects:
   - title: "2D"
     url: /projects/2D/
   - title: "3D"
-        url: /projects/3D/
+    url: /projects/3D/
+  - title: "Comedy and Tragedy"
+      url: /projects/CaT/
+    
     
 
 # Sidebar menu for the Pages page
