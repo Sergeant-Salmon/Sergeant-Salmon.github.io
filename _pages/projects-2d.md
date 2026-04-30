@@ -2,38 +2,7 @@
 title: "2D"
 layout: single
 permalink: /projects/2d/
-gallery_dfs:
-  # Recommended: width "240px" to "320px" keeps a neat grid
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 1"
-    title: "Core loop"
-    caption: "Core loop"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 2"
-    title: "Challenge"
-    caption: "Challenge"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 3"
-    title: "Power-ups"
-    caption: "Power-ups"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 4"
-    title: "Boss arena"
-    caption: "Boss arena"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 5"
-    title: "UI feedback"
-    caption: "UI feedback"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 6"
-    title: "Final tweak"
-    caption: "Final tweak"
+
 header:
   overlay_color: "#000"
   overlay_filter: "0.35"
@@ -48,4 +17,4 @@ sidebar:
 This is a simple 2D game i created early in my first year of Uni. This was my first experience with coding in C#. The game is a simple RPG where you kill all of the enemies to progress and level up your stats. I created this game in Unity and it taught me alot about C# and Using tilemaps within Unity. I also did alot of work with UI elements which was very useful and definitelytaught me alot.
 {% include video id="dQ8o929NDLU" provider="youtube" %}
 
-{% include gallery id="gallery_dfs" layout="third" thumb_height="180px" %}
+
