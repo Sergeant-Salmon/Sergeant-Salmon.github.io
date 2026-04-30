@@ -10,13 +10,13 @@ main:
       - title: "Deforest Station"
         url: /projects/deforest-station/
       - title: "2D"
-        url: /projects/2D/
+        url: /projects/2d/
       - title: "3D"
-        url: /projects/3D/
+        url: /projects/3d/
       - title: "Comedy and Tragedy"
-        url: /projects/CaT/
+        url: /projects/comedy-and-tragedy/
       - title: "Rough Mix"
-        url: /projects/RM/
+        url: /projects/rough-mix/
  # - title: "Pages"
  #   url: /pages/
 #    children:
@@ -37,13 +37,13 @@ projects:
   - title: "Deforest Station"
     url: /projects/deforest-station/
   - title: "2D"
-    url: /projects/2D/
+    url: /projects/2d/
   - title: "3D"
-    url: /projects/3D/
+    url: /projects/3d/
   - title: "Comedy and Tragedy"
-    url: /projects/CaT/
+    url: /projects/comedy-and-tragedy/
   - title: "Rough Mix"
-    url: /projects/RM/
+    url: /projects/rough-mix/
     
     
 
