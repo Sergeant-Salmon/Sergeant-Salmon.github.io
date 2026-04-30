@@ -20,6 +20,8 @@ main:
   #      url: /pages/single/
 #      - title: "Splash Layout"
  #       url: /pages/splash/
+ - title: "Contact Me"
+    url: /pages/contact-me/
   - title: "Components"
     url: /components/
  
