@@ -1,7 +1,7 @@
 ---
 title: "Rough Mix"
 layout: single
-permalink: /projects/projects-rough-mix/
+permalink: /projects/rough-mix/
 gallery_dfs:
   # Recommended: width "240px" to "320px" keeps a neat grid
   - url: /assets/images/placeholder.png
