@@ -1,5 +1,5 @@
 ---
-title: "Projects Deforest Station"
+title: "Deforest Station"
 layout: single
 permalink: /projects/deforest-station/
 gallery_dfs:
