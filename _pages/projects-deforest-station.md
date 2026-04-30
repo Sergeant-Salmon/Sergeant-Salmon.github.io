@@ -40,7 +40,7 @@ header:
   overlay_image: /assets/images/background cloudy banner.png
 excerpt: "First year Uni Group project."
 sidebar:
-  title: "Deforest Station"
+  title: "Projects"
   nav:
     - projects
     
