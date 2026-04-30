@@ -2,7 +2,7 @@
 title: "Projects"
 layout: single
 permalink: /projects/
-gallery_gameplay:
+gallery_projects:
   # Recommended: width "240px" to "320px" keeps a neat grid
   - url: /assets/images/placeholder.png
     image_path: /assets/images/placeholder.png
@@ -49,7 +49,7 @@ This is my project showcase, you can use the sidebar to choose which project you
 
 By clicking the images below you can get a short overview of each of my projects.
 
-{% include gallery id="gallery_gameplay" layout="third" thumb_height="180px" %}
+{% include gallery id="gallery_projects" layout="third" thumb_height="180px" %}
 
 
 
