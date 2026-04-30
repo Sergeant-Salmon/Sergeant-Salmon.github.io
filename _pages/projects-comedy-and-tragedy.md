@@ -49,6 +49,6 @@ This is a project i completed during the first semester of my first year of Uni.
 We were tasked with creating a board game so that we could better understand the key principles of game design.
 I decided to create a social deduction card game which makes you act out predetermined roles in a theatrical themeing.
 {% include video id="LtAwfcAyWyw" provider="youtube" %}
-
+I created a comprehensive game design document and conducted a structured playtest for feedback.
 
 {% include gallery id="gallery_dfs" layout="third" thumb_height="180px" %}
