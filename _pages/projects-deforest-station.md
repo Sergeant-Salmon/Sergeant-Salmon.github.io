@@ -46,5 +46,6 @@ sidebar:
     
 ---
 Talk about DFS
+{% include video id="uuhx1_aKJyI" provider="youtube" %}
 
 {% include gallery id="gallery_dfs" layout="third" thumb_height="180px" %}
