@@ -7,9 +7,9 @@ main:
   - title: "Projects"
     url: /projects/
     children:
-      - title: "Projects Deforest Station"
+      - title: "Deforest Station"
         url: /projects/deforest-station/
-      - title: "Projects 2D"
+      - title: "2D"
         url: /projects/2D/
  # - title: "Pages"
  #   url: /pages/
@@ -28,9 +28,9 @@ main:
 
 # Sidebar menu for the Projects page
 projects:
-  - title: "Projects Deforest Station"
+  - title: "Deforest Station"
     url: /projects/deforest-station/
-  - title: "Projects 2D"
+  - title: "2D"
     url: /projects/2D/
     
 
