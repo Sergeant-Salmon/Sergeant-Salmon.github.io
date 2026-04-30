@@ -32,7 +32,7 @@ skills:
 
   <!-- LEFT: text content -->
   <div style="flex:1 1 250px; min-width:250px;">
-    <h2>1st yr Project Game - 2D Platformer</h2>
+    <h2>Summary</h2>
     <p>
       Passionate and motivated Game Design student going into my second year at Ulster University. 
       Recently completed a team project and am advancing my skills in C#, Unity development and seeking experience.
