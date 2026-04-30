@@ -28,6 +28,26 @@ skills:
 
 {% include figure image_path="/assets/images/3D 2.png" alt="Game Jam screenshot" %}
 
+<div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
+
+  <!-- LEFT: text content -->
+  <div style="flex:1 1 250px; min-width:250px;">
+    <h2>1st yr Project Game - 2D Platformer</h2>
+    <p>
+      Passionate and motivated Game Design student going into my second year at Ulster University. 
+      Recently completed a team project and am advancing my skills in C#, Unity development and seeking experience.
+      Skilled in scripting, game audio, soundtracks, and level design. Excited about learning more C# scripting.
+    </p>
+  </div>
+
+  <!-- RIGHT: video/content area -->
+  <div style="flex:1 1 250px; min-width:250px;">
+    <!-- Replace this placeholder with a YouTube iframe or a video tag -->
+    {% include video id="dQw4w9WgXcQ" provider="youtube" %}
+  </div>
+
+</div>
+
 {% include download
   title="Download my CV"
   url="/assets/downloads/Project-proposal.pdf"
