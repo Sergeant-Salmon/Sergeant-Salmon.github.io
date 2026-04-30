@@ -28,10 +28,11 @@ main:
 
 # Sidebar menu for the Projects page
 projects:
-  - title: "Game Jam"
-    url: /projects/game-jam/
-  - title: "Capstone"
-    url: /projects/capstone/
+  - title: "Projects Deforest Station"
+    url: /projects/deforest-station/
+  - title: "Projects 2D"
+    url: /projects/2D/
+    
 
 # Sidebar menu for the Pages page
 #pages:
